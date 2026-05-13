@@ -44,7 +44,7 @@ def display_word(word,guessed_letter):
 def start_game():
   word=random_word()
   guessed_letter=[]
-  attempts=3
+  attempts=5
 
   print('      starting the game....')
   time.sleep(1)
@@ -91,10 +91,6 @@ def start_game():
 
     print(f' game over!!! the word is {word}')
     time.sleep(1)
-    print()
-    print()
-    print()
-    print()
     print()
 
 
