@@ -59,6 +59,9 @@ def start_game():
 
 # בחירת המשתמש
       guess=user_input()
+      if len(guess) != 1 or not guess.isalpha():
+          print('please enter one letter only')
+          continue
 
 
       print('cheking your guess...')
