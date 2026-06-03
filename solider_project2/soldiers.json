@@ -1,18 +1,22 @@
 [
   {
-    "name": "moty",
-    "age": "34"
+    "full_name": "moty",
+    "role": "test",
+    "id": 5
   },
   {
-    "name": "moty"
+    "full_name": "moty",
+    "role": "ok",
+    "id": 9
   },
   {
-    "test": "test"
+    "full_name": "yossi",
+    "role": "ok",
+    "id": 8
   },
   {
-    "test": "test"
-  },
-  {
-    "name1": "test2"
+    "full_name": "nissim",
+    "id": 6,
+    "role": "None"
   }
 ]

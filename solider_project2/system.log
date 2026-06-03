@@ -12,3 +12,182 @@ INFO | 2026-06-02 17:37:27,905 | try to add a new solider
 INFO | 2026-06-02 17:37:27,905 | succssesfuly readed 
 INFO | 2026-06-02 17:37:27,906 | solider {'name1': 'test2'} as aded 
 INFO | 2026-06-02 17:37:27,907 | succsseful saved 
+ERROR | 2026-06-02 18:09:38,966 | invalid key error:'full_name' 
+INFO | 2026-06-02 18:18:42,968 | try to add a new solider 
+INFO | 2026-06-02 18:19:43,517 | try to add a new solider 
+INFO | 2026-06-02 18:19:43,518 | succssesfuly readed 
+INFO | 2026-06-02 18:19:43,518 | solider {'full_name': 'moty', 'role': 'test', 'id': 9} as aded 
+INFO | 2026-06-02 18:19:43,519 | succsseful saved 
+INFO | 2026-06-02 18:19:44,557 | try to add a new solider 
+INFO | 2026-06-02 18:19:44,557 | succssesfuly readed 
+INFO | 2026-06-02 18:19:44,558 | solider {'full_name': 'moty', 'role': 'test', 'id': 9} as aded 
+INFO | 2026-06-02 18:19:44,559 | succsseful saved 
+INFO | 2026-06-02 18:20:05,438 | try to add a new solider 
+ERROR | 2026-06-02 18:20:05,438 | invalid key error:'full_name' 
+INFO | 2026-06-02 18:20:37,520 | try to add a new solider 
+INFO | 2026-06-02 18:21:41,727 | try to add a new solider 
+INFO | 2026-06-02 18:24:19,613 | try to add a new solider 
+WARNING | 2026-06-02 18:24:19,613 | error 
+INFO | 2026-06-02 20:59:47,685 | succssesfuly readed 
+INFO | 2026-06-02 21:00:26,516 | try to add a new solider 
+INFO | 2026-06-02 21:00:26,516 | succssesfuly readed 
+INFO | 2026-06-02 21:00:26,517 | solider {'full_name': 'yossi', 'role': 'test', 'id': 8} as aded 
+INFO | 2026-06-02 21:00:26,518 | succsseful saved 
+INFO | 2026-06-02 21:23:31,472 | succssesfuly readed 
+INFO | 2026-06-02 21:24:44,832 | succssesfuly readed 
+INFO | 2026-06-02 21:25:07,099 | succssesfuly readed 
+INFO | 2026-06-02 21:27:13,917 | succssesfuly readed 
+INFO | 2026-06-02 21:27:23,933 | succssesfuly readed 
+INFO | 2026-06-02 21:30:21,950 | succssesfuly readed 
+INFO | 2026-06-02 21:30:21,951 | get solider sucssesfuly 
+INFO | 2026-06-02 21:30:38,762 | succssesfuly readed 
+INFO | 2026-06-02 21:30:38,763 | get solider sucssesfuly 
+INFO | 2026-06-02 21:30:48,466 | succssesfuly readed 
+INFO | 2026-06-02 21:32:55,275 | succssesfuly readed 
+WARNING | 2026-06-02 21:32:55,276 | id not found 
+INFO | 2026-06-02 21:33:07,424 | succssesfuly readed 
+INFO | 2026-06-02 21:33:07,425 | get solider sucssesfuly 
+INFO | 2026-06-02 21:33:45,170 | succssesfuly readed 
+INFO | 2026-06-02 21:33:45,171 | get solider sucssesfuly 
+INFO | 2026-06-02 21:33:47,261 | succssesfuly readed 
+INFO | 2026-06-02 21:33:47,262 | get solider sucssesfuly 
+INFO | 2026-06-02 21:48:29,575 | try to update a solider 
+INFO | 2026-06-02 21:48:29,598 | succssesfuly readed 
+INFO | 2026-06-02 21:48:29,600 | succsseful saved 
+INFO | 2026-06-02 21:48:29,602 | soldier updated succssesfuly 
+WARNING | 2026-06-02 21:48:29,605 | id not found 
+INFO | 2026-06-02 21:49:16,804 | try to update a solider 
+INFO | 2026-06-02 21:49:16,805 | succssesfuly readed 
+INFO | 2026-06-02 21:49:16,806 | succsseful saved 
+INFO | 2026-06-02 21:49:16,807 | soldier updated succssesfuly 
+WARNING | 2026-06-02 21:49:16,808 | id not found 
+INFO | 2026-06-02 21:50:03,714 | try to update a solider 
+INFO | 2026-06-02 21:50:03,715 | succssesfuly readed 
+WARNING | 2026-06-02 21:50:03,716 | id not found 
+WARNING | 2026-06-02 21:50:03,716 | id not found 
+INFO | 2026-06-02 21:50:03,717 | succsseful saved 
+INFO | 2026-06-02 21:50:03,718 | soldier updated succssesfuly 
+WARNING | 2026-06-02 21:50:03,719 | id not found 
+INFO | 2026-06-02 21:50:23,729 | try to update a solider 
+INFO | 2026-06-02 21:50:23,733 | succssesfuly readed 
+INFO | 2026-06-02 21:50:23,751 | succsseful saved 
+INFO | 2026-06-02 21:50:23,762 | soldier updated succssesfuly 
+INFO | 2026-06-02 21:50:38,054 | try to update a solider 
+INFO | 2026-06-02 21:50:38,054 | succssesfuly readed 
+INFO | 2026-06-02 21:51:23,546 | try to update a solider 
+INFO | 2026-06-02 21:51:23,547 | succssesfuly readed 
+WARNING | 2026-06-02 21:51:23,547 | id not found 
+INFO | 2026-06-02 21:51:38,894 | try to update a solider 
+INFO | 2026-06-02 21:51:38,894 | succssesfuly readed 
+INFO | 2026-06-02 21:51:38,896 | succsseful saved 
+INFO | 2026-06-02 21:51:38,896 | soldier updated succssesfuly 
+WARNING | 2026-06-02 21:51:38,897 | id not found 
+INFO | 2026-06-02 21:52:33,865 | try to update a solider 
+INFO | 2026-06-02 21:52:33,866 | succssesfuly readed 
+INFO | 2026-06-02 21:52:33,867 | succsseful saved 
+INFO | 2026-06-02 21:52:33,868 | soldier updated succssesfuly 
+WARNING | 2026-06-02 21:52:33,868 | id not found 
+INFO | 2026-06-02 21:52:50,486 | try to update a solider 
+INFO | 2026-06-02 21:52:50,488 | succssesfuly readed 
+WARNING | 2026-06-02 21:52:50,488 | id not found 
+INFO | 2026-06-02 21:52:50,489 | succsseful saved 
+INFO | 2026-06-02 21:52:50,490 | soldier updated succssesfuly 
+INFO | 2026-06-02 21:53:06,803 | try to update a solider 
+INFO | 2026-06-02 21:53:06,804 | succssesfuly readed 
+WARNING | 2026-06-02 21:53:06,805 | id not found 
+WARNING | 2026-06-02 21:53:06,805 | id not found 
+WARNING | 2026-06-02 21:53:06,806 | id not found 
+INFO | 2026-06-02 21:53:39,184 | try to update a solider 
+INFO | 2026-06-02 21:53:39,185 | succssesfuly readed 
+WARNING | 2026-06-02 21:53:39,185 | id not found 
+INFO | 2026-06-02 21:53:49,583 | try to update a solider 
+INFO | 2026-06-02 21:53:49,584 | succssesfuly readed 
+INFO | 2026-06-02 21:53:49,585 | succsseful saved 
+INFO | 2026-06-02 21:53:49,586 | soldier updated succssesfuly 
+WARNING | 2026-06-02 21:53:49,586 | id not found 
+INFO | 2026-06-02 21:58:15,712 | try to update a solider 
+INFO | 2026-06-02 21:58:15,714 | succssesfuly readed 
+WARNING | 2026-06-02 21:58:15,715 | id not found 
+INFO | 2026-06-02 21:58:15,716 | succsseful saved 
+INFO | 2026-06-02 21:58:15,717 | soldier updated succssesfuly 
+INFO | 2026-06-03 07:06:32,301 | succssesfuly readed 
+INFO | 2026-06-03 07:07:26,443 | succssesfuly readed 
+INFO | 2026-06-03 07:07:26,445 | succsseful saved 
+INFO | 2026-06-03 07:07:26,448 | succsseful saved 
+INFO | 2026-06-03 07:08:27,264 | succssesfuly readed 
+INFO | 2026-06-03 07:11:42,226 | succssesfuly readed 
+INFO | 2026-06-03 07:11:42,229 | succsseful saved 
+INFO | 2026-06-03 07:13:29,753 | trying to remone a solider 
+INFO | 2026-06-03 07:13:29,755 | succssesfuly readed 
+INFO | 2026-06-03 07:13:29,756 | succsseful saved 
+INFO | 2026-06-03 07:13:50,898 | trying to remone a solider 
+INFO | 2026-06-03 07:13:50,901 | succssesfuly readed 
+INFO | 2026-06-03 07:13:50,909 | {'full_name': 'moty', 'role': 'test', 'id': 5} has succssesfuly removed 
+INFO | 2026-06-03 07:13:50,910 | succsseful saved 
+INFO | 2026-06-03 08:29:00,517 | trying to remone a solider 
+INFO | 2026-06-03 08:29:00,521 | succssesfuly readed 
+INFO | 2026-06-03 08:29:00,522 | succsseful saved 
+INFO | 2026-06-03 08:29:54,207 | trying to remone a solider 
+INFO | 2026-06-03 08:29:54,208 | succssesfuly readed 
+INFO | 2026-06-03 08:29:54,209 | {'full_name': 'moty', 'role': 'test', 'id': 5} has succssesfuly removed 
+INFO | 2026-06-03 08:29:54,211 | succsseful saved 
+INFO | 2026-06-03 08:32:44,456 | trying to remone a solider 
+INFO | 2026-06-03 08:32:44,462 | succssesfuly readed 
+INFO | 2026-06-03 08:32:44,464 | {'full_name': 'moty', 'role': 'test', 'id': 5} has succssesfuly removed 
+INFO | 2026-06-03 08:32:44,465 | succsseful saved 
+INFO | 2026-06-03 08:32:57,411 | trying to remone a solider 
+INFO | 2026-06-03 08:32:57,413 | succssesfuly readed 
+INFO | 2026-06-03 08:32:57,414 | succsseful saved 
+INFO | 2026-06-03 08:33:05,531 | trying to remone a solider 
+INFO | 2026-06-03 08:33:05,532 | succssesfuly readed 
+INFO | 2026-06-03 08:33:05,533 | succsseful saved 
+INFO | 2026-06-03 08:33:42,740 | trying to remone a solider 
+INFO | 2026-06-03 08:33:42,744 | succssesfuly readed 
+INFO | 2026-06-03 08:33:42,744 | {'full_name': 'moty', 'role': 'test', 'id': 5} has succssesfuly removed 
+INFO | 2026-06-03 08:33:42,745 | succsseful saved 
+INFO | 2026-06-03 08:33:48,893 | trying to remone a solider 
+INFO | 2026-06-03 08:33:48,894 | succssesfuly readed 
+INFO | 2026-06-03 08:33:48,895 | succsseful saved 
+INFO | 2026-06-03 08:34:39,829 | trying to remone a solider 
+INFO | 2026-06-03 08:34:39,830 | succssesfuly readed 
+INFO | 2026-06-03 08:34:39,831 | succsseful saved 
+WARNING | 2026-06-03 08:34:39,832 | id not found 
+INFO | 2026-06-03 08:34:56,354 | trying to remone a solider 
+INFO | 2026-06-03 08:34:56,356 | succssesfuly readed 
+INFO | 2026-06-03 08:34:56,357 | {'full_name': 'moty', 'role': 'test', 'id': 5} has succssesfuly removed 
+INFO | 2026-06-03 08:34:56,358 | succsseful saved 
+INFO | 2026-06-03 08:34:56,358 | succsseful saved 
+WARNING | 2026-06-03 08:34:56,360 | id not found 
+INFO | 2026-06-03 08:35:05,922 | trying to remone a solider 
+INFO | 2026-06-03 08:35:05,929 | succssesfuly readed 
+INFO | 2026-06-03 08:35:05,931 | succsseful saved 
+INFO | 2026-06-03 08:35:05,932 | succsseful saved 
+WARNING | 2026-06-03 08:35:05,932 | id not found 
+INFO | 2026-06-03 08:35:07,097 | trying to remone a solider 
+INFO | 2026-06-03 08:35:07,097 | succssesfuly readed 
+INFO | 2026-06-03 08:35:07,098 | succsseful saved 
+INFO | 2026-06-03 08:35:07,098 | succsseful saved 
+WARNING | 2026-06-03 08:35:07,099 | id not found 
+INFO | 2026-06-03 08:37:32,996 | succssesfuly readed 
+INFO | 2026-06-03 08:37:32,997 | get solider sucssesfuly 
+INFO | 2026-06-03 08:38:02,310 | succssesfuly readed 
+WARNING | 2026-06-03 08:38:02,311 | id not found 
+INFO | 2026-06-03 08:39:38,092 | try to update a solider 
+INFO | 2026-06-03 08:39:38,092 | succssesfuly readed 
+INFO | 2026-06-03 08:39:38,093 | succsseful saved 
+INFO | 2026-06-03 08:39:38,094 | soldier updated succssesfuly 
+INFO | 2026-06-03 08:40:35,981 | try to update a solider 
+INFO | 2026-06-03 08:40:35,982 | succssesfuly readed 
+WARNING | 2026-06-03 08:40:35,983 | id not found 
+INFO | 2026-06-03 08:40:49,009 | try to update a solider 
+INFO | 2026-06-03 08:40:49,010 | succssesfuly readed 
+WARNING | 2026-06-03 08:40:49,010 | id not found 
+INFO | 2026-06-03 08:41:01,437 | try to update a solider 
+INFO | 2026-06-03 08:41:01,438 | succssesfuly readed 
+INFO | 2026-06-03 08:41:01,440 | succsseful saved 
+INFO | 2026-06-03 08:41:01,440 | soldier updated succssesfuly:{'full_name': 'moty', 'role': '3', 'id': 9} 
+INFO | 2026-06-03 08:43:05,468 | try to add a new solider 
+INFO | 2026-06-03 08:43:38,055 | try to add a new solider 
+INFO | 2026-06-03 08:43:38,060 | succssesfuly readed 
+INFO | 2026-06-03 08:43:38,061 | solider {'full_name': 'nissim', 'id': 6, 'role': 'None'} as aded 
+INFO | 2026-06-03 08:43:38,064 | succsseful saved 
